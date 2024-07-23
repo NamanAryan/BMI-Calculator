@@ -19,7 +19,7 @@
             document.querySelector(".showMsg").innerText = "You are overweight";
         }
         else{
-            console.log("You are Obese");
+            console.log("You are Obese!");
             document.querySelector(".showMsg").innerText = "You are Obese";
         }
         let unhide = document.querySelector(".hide")
